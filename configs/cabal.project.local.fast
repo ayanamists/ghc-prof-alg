@@ -1,0 +1,3 @@
+package ghc-prof-alg
+    profiling: True
+    ghc-options: -O1 -ddump-simpl -ddump-simpl-trace
